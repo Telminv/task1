@@ -4,6 +4,7 @@
 int main()
 {
     double a,b,c;
+    inf g;
 do{
     g = scanf ("%lf%lf%lf",&a, &b, &c);
     }
